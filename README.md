@@ -1,6 +1,6 @@
 # Mitiq QV
 
-Companion repository for the paper [[2110:abcde] Error mitigation increases the effective quantum volume of quantum computers](https://arxiv.org/abs/2110.abcde).
+Companion repository for the paper [[2203.05489] Error mitigation increases the effective quantum volume of quantum computers](https://arxiv.org/abs/2203.05489).
 
 ## Overview
 
