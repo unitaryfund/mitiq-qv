@@ -1,6 +1,6 @@
 # Mitiq QV
 
-Companion repository for the paper TODO: paper link.
+Companion repository for the paper [[2110:abcde] Error mitigation increases the effective quantum volume of quantum computers](https://arxiv.org/abs/2110.abcde).
 
 ## Overview
 
@@ -29,7 +29,7 @@ This notebook reads in data (saved by `main.ipynb`), computes the mean and stand
 
 ## Data
 
-This directory contains the data from the paper. Each subdirectory corresponds to data from a particular computer. Use the `plot.ipynb` notebook to read it, process the results, and make the plots shown in the paper. The main parameter is the directory to load data in at the top of the notebook.
+This directory contains the data from the paper. Each subdirectory corresponds to data from a particular computer. Use the `plot.ipynb` notebook to read in this data, process it, and make the plots shown in the paper. The main parameter is the directory to load data in at the top of the notebook.
 
 ## Questions or comments
 
